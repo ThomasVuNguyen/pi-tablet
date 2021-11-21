@@ -8,11 +8,10 @@ After using the new setup in the morning for homework and occasional coding/retr
 I started attaching the Raspberry Pi and a Daughter board (for extra ports) and extra custom sized cables onto the back of the 10'' display. 
 There was even a plan to open up the display and deconstruct it to put the boards inside the case. This was later dismissed because it would risk breaking a 120$ display.
 
-
-
 <img src="media/PXL_20210209_145319767.jpg">
-
 <img src="media/PXL_20210415_013134809.jpg">
+This is my first attempt to work with what I have to achieve the most amount of portability out of what's around. And deep down, I know this would transform into something else.
+After getting my first internship, I felt more financially confident, so a few investments were made. I invested on custom and new hardware to experiment, as well as new tooling for a proper workshop, and a 3d printer. I knew to get this project complete, I need complete control over my design and fabrication process.
 
 <img src="media/PXL_20210514_192956366.jpg">
 <img src="media/PXL_20210524_035250328.jpg">
