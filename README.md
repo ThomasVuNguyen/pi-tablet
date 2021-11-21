@@ -1,4 +1,5 @@
 # pi-tablet
+The CAD file (perfectly editable): https://cad.onshape.com/documents/283c1f31dc07407e5f848c64/w/50fb17fa12b0c5329912ae54/e/41b3ec8f5c27facef2add061?renderMode=0&uiState=6199a9a62338b64961d45a35
 This is definitely the longest and most meaningful hardware design project I have ever done.
 
 So roughly 6 months ago, as my interest in my newly acquired Raspberry Pi 4 grew, I decided to buy a 10'' portable monitor and a small keyboard to more properly use my it as a computer (and it has proven itself much more than that).
