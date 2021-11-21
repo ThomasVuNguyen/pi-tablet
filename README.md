@@ -15,10 +15,12 @@ After getting my first internship, I felt more financially confident, so a few i
 With lots of CAD design, fabrication, I ended up with a proper 7-inch display setup, with a UPS board for power. With a 4000mAh battery, I could use the "tablet" for nearly 2 hours.
 <img src="media/PXL_20210514_192956366.jpg">
 <img src="media/PXL_20210524_035250328.jpg">
-
 <img src="media/PXL_20210530_235600738.jpg">
 
+Something still felt off about the design, it doesn't look elegant and doesn't feel like something I would personally use on a daily basis. This is when I have to ask myself what is the meaning of portability in this project? I cannot depend on touch screen keyboard for coding, and UI tasks aren't what I'm interested in. So going with only a CLI client on linux (without any Desktop Environment).
+My goal on the nest design is: Better battery life, better control over the hardware and software design. What that means is a revamp of the whole CAD database for configurability, a different Operating System and config file, and most importantly, the use of a different board: The Raspberry Pi Zero 2 W.
 
+With the new design, the device can run for up to 4 hours, much lighter (just a tad heavier than my smartphone), easily configurable with compatibility with any Raspberry Pi boards, and accessories can be easily design around it due to the simplicity of the design.
 
 <img src="media/PXL_20211121_012631133.jpg">
 <img src="media/PXL_20211121_012647713.jpg">
